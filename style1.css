@@ -1,0 +1,31 @@
+header img {
+  max-width: 90%;
+  margin:20px;
+}
+p {
+  color: black;
+  max-width: 1000px;
+  border-top: 5px;
+  margin-left: 20px;
+}
+nav li{
+  display: inline-block;;
+  font-size: 30px;
+  margin: 15px;
+}
+h1 {
+  Height: 60px;
+  font-size: 100px;
+}
+h2 {
+  Font-size: 40px;
+  padding-left: 50px;
+}
+footer img{
+  max-width: 25%;
+}
+nav ul {
+  background-color: red;
+  max-width: 90%;
+  margin: 20px;
+}

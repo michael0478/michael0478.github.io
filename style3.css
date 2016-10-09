@@ -1,0 +1,19 @@
+p{
+  color: red;
+  padding: 5px;
+  border: dotted black 5px;
+  font-size: 150%;
+  width: 98%;
+  background-color: green;
+}
+nav li {
+  display: inline-block;
+  padding: 5%;
+
+}
+nav {text-align:center;
+  font-size: 150%;
+}
+header h1 {text-align: center;
+  font-size: 500%;
+}
